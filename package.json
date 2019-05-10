@@ -1,0 +1,8 @@
+{
+  "name": "webpack4fundamentals",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:smarigowda/webpack4fundamentals.git",
+  "author": "Santosh Marigowda <santosharakere@gmail.com>",
+  "license": "MIT"
+}
